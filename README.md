@@ -6,13 +6,13 @@ This should only be run on a freshly provisioned server. Can also be used for vi
 
 Download the script
 ```
-wget -O /tmp/Ubuntu20Setup.sh https://raw.githubusercontent.com/alexlewislnk/Ubuntu-Setup/main/Ubuntu20Setup.sh
-chmod +rx /tmp/Ubuntu20Setup.sh
+wget -O /tmp/Ubuntu24Setup.sh https://raw.githubusercontent.com/alexlewislnk/Ubuntu-Setup/main/Ubuntu20Setup.sh
+chmod +rx /tmp/Ubuntu24Setup.sh
 ```
 
 Run the Script
 ```
-/tmp/Ubuntu20Setup.sh
+/tmp/Ubuntu24Setup.sh
 ```
 
 ## What does the script do?
