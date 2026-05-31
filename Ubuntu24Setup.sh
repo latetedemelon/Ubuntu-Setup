@@ -56,7 +56,7 @@ Ciphers chacha20-poly1305@openssh.com,aes256-gcm@openssh.com,aes128-gcm@openssh.
 MACs hmac-sha2-512-etm@openssh.com,hmac-sha2-256-etm@openssh.com,umac-128-etm@openssh.com
 GSSAPIKexAlgorithms gss-curve25519-sha256-,gss-group16-sha512-,gss-group14-sha256-
 Protocol 2
-PermitRootLogin no
+#PermitRootLogin no
 PasswordAuthentication no
 PermitEmptyPasswords no
 X11Forwarding no
